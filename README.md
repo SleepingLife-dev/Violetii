@@ -1,2 +1,2 @@
 # Violetii
-new feature phone OS making for fun
+new DE making for fun(for feature phones)
